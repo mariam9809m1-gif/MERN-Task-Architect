@@ -1,0 +1,6 @@
+{
+  "name": "AuctionCraft Platform",
+  "description": "Production-grade, real-time minimalist bidding and auction workspace featuring dynamic timers, instant bid updates, mock-bidding simulation, and a full seller inventory dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
